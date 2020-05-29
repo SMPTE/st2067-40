@@ -8,6 +8,8 @@ The following summarizes the proposed changes and additions from the first editi
 
 [35PM-CD-ST-2067-40-2ED-diff-from-1ED.pdf](35PM-CD-ST-2067-40-2ED-diff-from-1ED.pdf) contains a redline from the first edition of the document.
 
+The CHANGELOG.md file contains the change in the documents during this public CD exposition.
+
 [GitHub issues](https://github.com/SMPTE/st2067-40-2ED/issues) are preferred for discussion of this specification. Alternatively, comments can be sent to 35pm-chair@lists.smpte.org.
 
 This material is work under development and shall not be referred to as a SMPTE Standard, Recommended Practice, or Engineering Guideline. It is distributed for review and comment; distribution does not constitute publication.
