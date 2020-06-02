@@ -1,3 +1,50 @@
+2020-06-01
+----------
+
+Adjustments concerning OPL annex, thanks to Raymond Yeung.
+https://github.com/SMPTE/st2067-40-2ED/issues/9#issuecomment-636390947
+
+The proposed input document requires the following corrections. The publication package will include the associated schema .xsd file as an informative component.
+
+1)----- Add to end of section 3 Normative References
+"World Wide Web Consortium (W3C) (2004, October 28). XML Schema Part 2: Datatypes (Second Edition)"
+(Note: There should not be a period "." at the end of the final line of the section.)
+
+2)-----
+C.1 XML Schema Definition
+
+Replace first sentence:
+"XML elements defined by this Annex shall conform to the XML schema definitions (see W3C XML Schema Part 1: Structures as referenced in SMPTE ST 2067-20) found in this specification."
+by:
+"XML elements defined by this Annex shall conform to the XML schema definitions (see W3C XML Schema Part 1: Structures and W3C XML Schema Part 2: Datatypes) found in this specification."
+
+3)-----
+C.2 APP4-XYZ-12
+
+Add these sentences to the first paragraph:
+"The mathematical functions "floor(x)" and "clamp(a, b, x)" in Table C.1 shall be as defined in ST 2067-102. The XML datatype Integer4096TripletType shall be as defined in ST 2067-102."
+
+4)-----
+C.3 APP4-XYZ-16
+(Section number mislabeled as "C.2")
+
+Add this sentence to the first paragraph:
+"The mathematical functions "floor(x)" and "clamp(a, b, x)" in Table C.1 shall be as defined in ST 2067-102. The XML datatype Integer65536TripletType shall be as defined in ST 2067-102."
+
+5)----- Style
+Annex C section headings are not in the proper style.
+
+
+6)----- Add this section to Annex C
+"
+C.4 Consolidated Schema (Informative)
+This specification is accompanied by the following element, which is an XML schema document as specified in W3C XML Schema Part 1: Structures.
+
+st2067-40a-202X.xsd
+
+This element collects the XML schema definitions defined in this specification. It is informative and, in case of
+conflict, this specification takes precedence.
+"
 
 2020-05-29
 ----------
