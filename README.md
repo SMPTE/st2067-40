@@ -6,10 +6,10 @@ The following summarizes the proposed changes and additions from the first editi
 * constraints on the Composition timeline and contents are relaxed (clause 7); and
 * constraints on Display Mastering Metadata are clarified and relaxed (sub-clause 6.1.3.1.5)
 
-[35PM-CD-ST-2067-40-2ED-diff-from-1ED.pdf](35PM-CD-ST-2067-40-2ED-diff-from-1ED.pdf) contains a redline from the first edition of the document.
-[35PM-CD-ST-2067-40-2ED-diff-from-PCD1.pdf](35PM-CD-ST-2067-40-2ED-diff-from-PCD1.pdf) contains a redline from the first document exposed during this public CD (PCD1.
-
-The CHANGELOG.md file contains the changes in the documents during this public CD exposition.
+The following files are made available to understand progress made in the document :
+* [35PM-CD-ST-2067-40-2ED-diff-from-1ED.pdf](35PM-CD-ST-2067-40-2ED-diff-from-1ED.pdf) contains a redline from the first edition of the document.
+* [35PM-CD-ST-2067-40-2ED-diff-from-PCD1.pdf](35PM-CD-ST-2067-40-2ED-diff-from-PCD1.pdf) contains a redline from the first document exposed during this public CD (PCD1).
+* The [CHANGELOG.md](CHANGELOG.md) file contains the changes in the documents during this public CD exposition.
 
 [GitHub issues](https://github.com/SMPTE/st2067-40-2ED/issues) are preferred for discussion of this specification. Alternatively, comments can be sent to 35pm-chair@lists.smpte.org.
 
