@@ -1,3 +1,23 @@
+2020-06-08
+----------
+All incomplete namespaces 
+http://www.smpte-ra.org/ns/2067-40/20XX
+http://www.smpte-ra.org/ns/2067-40/202X
+
+Have been changed to : 
+
+http://www.smpte-ra.org/ns/2067-40/2020
+
+Shim and color-scheme namespaces corrected as proposed : 
+
+https://github.com/SMPTE/st2067-40-2ED/issues/13
+
+Table 7 : http://www.smpte-ra.org/ns/2067-40/2020/shims#image
+Table 14 : http://www.smpte-ra.org/ns/2067-40/2020/shims#timed-text
+Table C.2 : http://www.smpte-ra.org/ns/2067-40/2020/opl-color-scheme#APP4-XYZ-12
+Table C.3 : http://www.smpte-ra.org/ns/2067-40/2020/opl-color-scheme#APP4-XYZ-16
+
+
 2020-06-03
 ----------
 
