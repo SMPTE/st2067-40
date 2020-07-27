@@ -1,3 +1,19 @@
+2020-07-07
+----------
+
+Change normative reference from 
+SMPTE ST 2067-2:2016 
+to 
+SMPTE ST 2067-2:2020
+
+Remove normative reference 
+SMPTE ST 2067-20:2016
+
+Correct annex C table numbering.
+
+Limit Color scheme in table C.2 to COLOR.APP4.2.
+Limit Color scheme in table C.3 to COLOR.APP4.1.
+
 2020-06-08
 ----------
 All incomplete namespaces 
