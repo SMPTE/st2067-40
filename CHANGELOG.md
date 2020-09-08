@@ -1,3 +1,13 @@
+2020-08-24
+----------
+
+Changelog was completed in Foreword.
+
+The specific paragraph on DCDM compositions is suppressed, and linear characteristics (formely general characteristics) and dcdm characteritics have now an own ApplicationIdendentification URI (Table 15).
+
+The PixelLayout in RGBA Picture Essence Descriptor is now marked as "shall be ignored". The prose defining the former RGBA PixelLayout has been transposed for the J2C Layout (6.1.3.3.2).
+
+
 2020-07-07
 ----------
 
