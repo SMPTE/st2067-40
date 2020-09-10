@@ -1,3 +1,12 @@
+2020-09-09
+----------
+
+Propose wording for the following issues :
+- Add constraints on markers for DCDM characteristics #15
+A constraint on the authorized markers scope URI and content for DCDM characteristics is added (clause 7.8).
+- Add constraint on authorized contentKind for DCDM characteristics #19
+A constraint on the authorized ContentKind scope URI and content for DCDM characteristics is added (clause 7.3).
+
 2020-08-24
 ----------
 
