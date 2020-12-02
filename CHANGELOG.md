@@ -1,3 +1,15 @@
+2020-11-27
+----------
+
+- Clarify prose for block encoding constraints in 5.4.3
+- HT-J2K block encoding constraints moved to Annex E
+- JPEG 2000 profiles table moved to Annex D
+
+2020-10-06
+----------
+- HT-J2K block encoding support is added (subclause 5.4.2) following issue #7 with change in the block coding constraints and a list of constraints in Annex D.
+
+
 2020-09-09
 ----------
 
