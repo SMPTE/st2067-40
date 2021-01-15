@@ -5,6 +5,20 @@ The following summarizes the proposed changes and additions from the first editi
 * the SMPTE labels identifying the image transfer characteristics supported by this document are modified (sub-clause 6.1.3.1.2);
 * constraints on the Composition timeline and contents are relaxed (clause 7); and
 * constraints on Display Mastering Metadata are clarified and relaxed (sub-clause 6.1.3.1.5)
+* proposed support for HT-J2K codec
+
+## Active discussions
+
+| Topic                    | Editing state | Discussion state | PCD revision | Related issue(s) |                                                                             |
+|--------------------------|:-------------:|:----------------:|--------------|:----------------:|
+| DCDM images              | mature        | consensus        | PCD1         | #22              |
+| Composition constraints  | mature        | consensus        | PCD3         | #19, #15, #1     |
+| DCDM subtitles support   | mature        | consensus        | PCD2         |                  |
+| HT-J2K codec support     | mature        | in discussion    | PCD3         | #7               |
+| DC IAB Wrapping support  | proposed      | initial          | PCD4         | #22              |
+| Provision OPL processing | mature        | consensus        | PCD2         | #9               |
+
+## Files to follow
 
 The following files are made available to understand progress made in the document :
 * [35PM-CD-ST-2067-40-2ED-diff-from-1ED.pdf](35PM-CD-ST-2067-40-2ED-diff-from-1ED.pdf) contains a redline from the first edition of the document.
