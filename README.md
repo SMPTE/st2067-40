@@ -1,4 +1,9 @@
-The Committee Draft of SMPTE ST 2067-40 2nd edition [35PM-CD-ST-2067-40-2ED.pdf](35PM-CD-ST-2067-40-2ED.pdf) is made available by the [Society of Motion Picture and Television Engineers](https://www.smpte.org) for a public review period ending no earlier than June 15, 2020, and no later than March 18, 2021.
+
+This Committee Draft was made available by the Society of Motion Picture and Television Engineers for a
+public review period, which ended on <start date of the FCD ballot>. The document is now being processed for publication. Note that the published document may ultimately differ from this Committee
+Draft. 
+
+The Committee Draft of SMPTE ST 2067-40 2nd edition [35PM-CD-ST-2067-40-2ED.pdf](35PM-CD-ST-2067-40-2ED.pdf) was made available by the [Society of Motion Picture and Television Engineers](https://www.smpte.org) for a public review period ending no earlier than June 15, 2020, and no later than March 18, 2021.
 
 The following summarizes the proposed changes and additions from the first edition:
 * support is added for image and timed text essence that conform to the D-Cinema Distribution Master as specified in the SMPTE ST 428 family of documents (sub-clause 5.2 and 6.3);
