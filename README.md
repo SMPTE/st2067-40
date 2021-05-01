@@ -52,7 +52,7 @@ The following summarizes the substantive changes made since the first edition of
 
 ## Feedback
 
-Please provide feedback at [GitHub issues](https://github.com/SMPTE/st2067-40-2ED/issues) (preferred) or mailto:35pm-chair@smpte.org.
+Please provide feedback at [GitHub issues](https://github.com/SMPTE/st2067-40-2ED/issues) (preferred) or [35pm-chair@smpte.org](mailto:35pm-chair@smpte.org).
 
 
 
